@@ -1,4 +1,4 @@
-XSS AÇIKLARI
+XSS AÇIKLARI --düzeltme
 
 Php'de tüm girdiler þüpheli olarak deðerlendirilmeli ve xss açýklarýndan korunmak için girdilerin kontrol edilmesi gerekir. Xss açýklarý kullanýcan gelen bilgilerin içine gizlenen kod parçalarýdýr ve bunlar html formatýndadýr.
 

@@ -7,6 +7,8 @@ Bu nedenle girdilerden html etiketlerini temizlemek gerekir.
 Bunun için komutumuz htmlspecialchars
 
 Þöyle bir fonksiyon iþimizi görecektir.
+```
+
 
 
 function temizle($data) {
@@ -23,5 +25,6 @@ function temizle($data) {
 
 temizle($_GET['adi']);
 
+```
 Daha geliþmiþ bir çözüm için
 https://gist.github.com/mbijon/1098477
